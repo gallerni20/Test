@@ -1,2 +1,2 @@
 # Test
-Sammlung der Übungseinheiten von IndIT 
+Sammlung der Übungsaufgaben von IndIT 

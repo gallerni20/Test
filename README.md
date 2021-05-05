@@ -1,2 +1,2 @@
 # Test
- just a testrepository
+Übungen zu den Übungseinheiten befinden sich auf im Zweig - Übungseinheiten
